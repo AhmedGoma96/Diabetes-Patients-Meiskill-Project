@@ -1,3 +1,3 @@
 # Diabetes-Patients-Meiskill-Project
 The objective is to diagnostically Analysis females at least 21 years old of Pima  Indian heritage according to diabetes based on certain diagnostic measurements  (several medical predictor variables) included in the dataset. Several constraints  were placed on the selection of these instances from a larger database.
-![alt text]([http://url/to/img.png](https://github.com/AhmedGoma96/Diabetes-Patients-Meiskill-Project/commit/c854fbced703d0f2be58e428cd9b782ed70484aa#diff-0952047d363d1de515b8873300df0097f04f26c3991145b5dd64624602f0f96d)https://github.com/AhmedGoma96/Diabetes-Patients-Meiskill-Project/commit/c854fbced703d0f2be58e428cd9b782ed70484aa#diff-0952047d363d1de515b8873300df0097f04f26c3991145b5dd64624602f0f96d)
+![](https://drive.google.com/file/d/1rLtINeIKaKXbJB38RPvdOaWELSrenYOf/view?usp=sharing)
