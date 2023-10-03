@@ -3,17 +3,17 @@
 "Patient Diabetes Analysis for females at least 21 years old of Pima Indian heritage ".
 
 The objective:
-diagnostically Analysis females at least 21 years old of Pima Indian heritage according to diabetes based on certain diagnostic measurements (several medical predictor variables) included in the dataset.
+diagnostically Analysis females at least 21 years old of Pima Indian heritage according to diabetes based on certain diagnostic measurements (several medical predictor variables) included in the dataset. <br />
 
 Project Phases:
-1- Data Cleaning
-2- Data Analysis ->"Add Insights columns to dataset depending on dataset columns."
-3- Data Visualization
+1- Data Cleaning  <br />
+2- Data Analysis ->"Add Insights columns to dataset depending on dataset columns." <br />
+3- Data Visualization <br />
 
 the link of project Documentation:
-[Patient Diabetes Analysis for females.pdf](https://github.com/AhmedGoma96/Diabetes-Patients-Meiskill-Project/files/12789570/Patient.Diabetes.Analysis.for.females.pdf)
+[Patient Diabetes Analysis for females.pdf](https://github.com/AhmedGoma96/Diabetes-Patients-Meiskill-Project/files/12789570/Patient.Diabetes.Analysis.for.females.pdf) <br />
 
-Insights:
+Insights: <br />
 1- Diabetes and non-Diabetes by Pregnancies.
 2- Diabetes and non-Diabetes by Glucose.
 3-Diabetes and non-Diabetes by Blood Pressure.
